@@ -1,0 +1,25 @@
+{
+    "clientes": {
+        "id" : "2020",
+        "nome" : "Joao da silva",
+        "endereco" : {
+            "logradouro" : "Rua dos cansados",
+            "Numero" : "6464",
+            "complemento" : "ap 901"
+        }
+    },
+    "pagamentos" : [
+        {
+            "id" : "123",
+            "descricao" : "PhP"
+        },
+        {
+            "id" : "1234",
+            "descricao" : "Curso"
+        },
+        {
+            "id" : "12345",
+            "descricao" : "Sexta"
+        }
+    ]
+}
